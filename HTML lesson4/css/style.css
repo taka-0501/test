@@ -38,6 +38,9 @@ padding: 30px;
     background-image: url(../images/main-img.png);
     background-repeat: no-repeat;
 }
+.main-sp{
+    display: none;
+}
 .main-h2{
     padding-top: 188PX;
     margin-left: 616px;
