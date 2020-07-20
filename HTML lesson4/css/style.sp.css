@@ -74,7 +74,7 @@
         order: 1;
     }
     .c1-img img{
-        width: 60%;
+        width: 100%;
        
         height: auto;
         box-sizing: border-box;
@@ -100,8 +100,8 @@
         box-sizing: border-box;
         order: 1;
     }
-    .c2-img img {
-        width: 60%;
+    .c2-img {
+        width: 100%;
         box-sizing: border-box;
         order: 2;
     }
